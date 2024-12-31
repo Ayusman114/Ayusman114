@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayusman114
+- 👋 Hi, I’m @Ayusman
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
